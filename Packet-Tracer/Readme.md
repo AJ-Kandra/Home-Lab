@@ -1,0 +1,1 @@
+Cisco Packet Tracer labs I’ve built for Network+ and CCNA practice. Each folder covers one topology, including the .pkt file, a diagram, the configuration commands I used, and notes on what I tested and troubleshot.
